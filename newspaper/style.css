@@ -1,0 +1,48 @@
+h1 {
+     color: crimson;              /* crimson;     */
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+  
+}
+
+time {
+  text-align: center;
+  text-transform: uppercase;
+ 
+  border-top: 2px solid #333333;
+  border-bottom: 2px solid #333333;
+  padding: 12px 0;
+ 
+  display: block;
+}
+time sup {
+    font-size: .875rem;
+    font-weight: normal;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: 'PT Serif', serif;
+  color: #404040;
+  padding: 0 24px;
+}
+article {
+    column-count: 3;
+    column-rule: 2px solid #333333;
+    column-gap: 42px;
+    margin-top: 36px;
+    margin-bottom: 20px;
+
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    background-color: darksalmon;
+    color: white;
+}
